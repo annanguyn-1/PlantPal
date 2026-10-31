@@ -79,6 +79,7 @@ This file stores:
   - Plants saved in the garden
 
 **Challenges and learning**
+
 One of the main challenges was understanding the difference between a regular Python application and Python Mode in Processing. Processing creates the interface using coordinates and drawing functions rather than regular application widgets.
 
 I also needed to adjust the size and position of the flowers because the fully grown tulip originally overlapped with its name. Testing the interface helped me identify and correct this problem.
